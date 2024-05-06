@@ -1,4 +1,4 @@
-# Mathematica-notebook-for-MC-and-MLMC-covariance-estimation
+# Mathematica notebook for h-statistics based MC and MLMC covariance estimation
 
 This repository contains a Mathematica notebook which lists and generates equations related to h-statistics based Monte Carlo (MC) and Multilevel Monte Carlo (MLMC) covariance estimation using the [mathStatica](http://www.mathstatica.com/) library.
 
