@@ -25,6 +25,7 @@ To run the notebook, you need:
 
 If you find this notebook or the associated article useful, please consider citing:
 
+```
 @article{Shivanand2023hstatcov,
 author = S.Shivanand,
 title = Covariance estimation using h-statistics in Monte Carlo and multilevel Monte Carlo
@@ -33,6 +34,8 @@ archivePrefix={arXiv},
 year = {2023},
 doi = {https://doi.org/10.48550/arXiv.2311.01336},
 eprint = {arXiv:2311.01336},
+primaryClass={math.ST}
 }
+```
 
 
